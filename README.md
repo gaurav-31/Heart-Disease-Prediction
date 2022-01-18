@@ -3,17 +3,18 @@ Heart Disease Prediction Model
 Data has been downloaded from Kaggle.com
 
 Important libraries 
-    ---- Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
+    ----> Pandas, Numpy, Matplotlib, Seaborn, ScikitLearn
     
 EDA (Exploratory Data Analysis)
 
 Data Visuallisation
-    ---- Bar graph, Histogram, Box-plot, Count-plot, Sactter-plot etc.
+    ----> Bar graph, Histogram, Box-plot, Count-plot, Sactter-plot etc.
     
 Model Preparation 
-    ---- Splitting Data into train and test set
+    ----> Splitting Data into train and test set
+    ---- Scaling Data 
     ---- Random Forest Classifier 
     
 Model Evaluation 
-    ---- Confusion Matrix
+    ----> Confusion Matrix
     ---- Accuracy Score(84%)
